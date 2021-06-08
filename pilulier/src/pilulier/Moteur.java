@@ -12,5 +12,19 @@ package pilulier;
 public class Moteur {
 
     
+    private boolean onoff;
     
+    public void setbool(){
+        
+    }
+
+    public Moteur(boolean onoff) {
+        this.onoff = onoff;
+    }
+    
+    private boolean getbool;
+
+    
+
+
 }
