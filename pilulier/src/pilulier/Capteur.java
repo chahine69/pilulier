@@ -11,4 +11,5 @@ package pilulier;
  */
 public class Capteur {
     
+    private boolean truefalse;
 }
