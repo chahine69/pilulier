@@ -11,4 +11,5 @@ package pilulier;
  */
 public class bouton {
     
+    private boolean truefalse;
 }
